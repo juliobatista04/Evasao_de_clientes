@@ -67,8 +67,4 @@ Este projeto tem como objetivo analisar os fatores que influenciam a **evasão d
 
 Projeto desenvolvido por **Julio**, desenvolvedor com foco em Ciência de Dados.
 
----
 
-## 📝 Licença
-
-Este projeto está licenciado sob a **MIT License**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
